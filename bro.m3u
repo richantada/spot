@@ -243,3 +243,16 @@ https://ott-live.olympicchannel.com/out/u/OC1_10.m3u8
 https://ott-live.olympicchannel.com/out/u/OC1_11.m3u8
 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="FEED SPORT", Olympic Channel 12
 https://ott-live.olympicchannel.com/out/u/OC1_12.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" group-title="HBO CHANNEL" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png", HBO HD
+http://learninglogic.000webhostapp.com/hbo/hbo.m3u8
+#EXTINF:-1 tvg-ID="" group-title="HBO CHANNEL" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png", HBO Family
+http://learninglogic.000webhostapp.com/hbo/fam.m3u8
+#EXTINF:-1 tvg-ID="" group-title="HBO CHANNEL" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png", HBO Hits
+http://learninglogic.000webhostapp.com/hbo/hits.m3u8
+#EXTINF:-1 tvg-ID="" group-title="HBO CHANNEL" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png", HBO Signature
+http://learninglogic.000webhostapp.com/hbo/sig.m3u8
+#EXTINF:-1 tvg-ID="" group-title="HBO CHANNEL" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png", Cinemax
+http://learninglogic.000webhostapp.com/hbo/max.m3u8
+#EXTINF:-1 tvg-ID="" group-title="HBO CHANNEL" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png", RED
+http://learninglogic.000webhostapp.com/hbo/red.m3u8
